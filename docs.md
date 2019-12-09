@@ -10,7 +10,8 @@ model: /mesosphere/dcos/1.13/data.yml
 
 ## Sample Text File to Test Adding Files
 
-This line added for conflict testing.
+
+This line added for conflict testing. But, Master says, do not conflict with the precious!
 
 Christmas a humbug, Uncle? You don't mean that!
 
