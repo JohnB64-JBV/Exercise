@@ -10,6 +10,8 @@ model: /mesosphere/dcos/1.13/data.yml
 
 ## Sample Text File to Test Adding Files
 
+This line added for conflict testing.
+
 Christmas a humbug, Uncle? You don't mean that!
 
 I do. Why what is Christmas but a time for buying things without money, for making merry instead of useful time working? Why if I had my way, every idiot who goes about with Merry Christmas on his lips would be boiled in his own pudding... and buried with a stake of holly through his heart!
