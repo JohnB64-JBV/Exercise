@@ -23,3 +23,19 @@ But you DON'T keep it.
 Let me leave it alone then. Much good it has done you. Bah! Much good may it EVER do you!
 
 There are many things by which I have not profited that have done me good, I daresay Christmas among them. And though it has not put a scrap of gold or piece of silver into my pocket, I say, God bless it!
+
+Bah! Humbug!
+
+Come, Uncle! Don't be cross... dine with us tomorrow!
+
+I'll see you... I'll see you in Hell first!
+
+By why, Uncle, why?
+
+Why?
+
+Why did you marry against my wishes?
+
+Why did I marry!? Because I fell in love!
+
+'Because I fell in love...!" There's another... If there's anything more ridiculous thatn 'Merry Christmas,' it's falling in love.  Good day, Nephew!
